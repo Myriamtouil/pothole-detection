@@ -29,6 +29,3 @@ python src/train.py
 Example results:
 
 ![Sample Result](output/output.png)
-
-## 📜 License
-MIT License
